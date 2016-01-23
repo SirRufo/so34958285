@@ -1,0 +1,3 @@
+[submodule "ext/OTL"]
+	path = ext/OTL
+	url = https://github.com/gabr42/OmniThreadLibrary.git
